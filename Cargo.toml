@@ -6,4 +6,4 @@ edition = "2021"
 [dependencies]
 anyhow = "1.0.95"
 clap = { version = "4.5.23", features = ["derive"] }
-fondant = { git = "https://github.com/Cachorr0/fondant" }
+fondant = { git = "https://github.com/CodeConception/fondant" }
