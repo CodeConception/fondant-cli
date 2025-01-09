@@ -1,0 +1,7 @@
+[package]
+name = "fondant-cli"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+fondant = { git = "https://github.com/Cachorr0/fondant" }

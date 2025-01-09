@@ -1,0 +1,3 @@
+use fondant;
+
+fn main() {}
